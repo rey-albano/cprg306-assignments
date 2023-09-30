@@ -7,6 +7,7 @@ export default function StudentInfo(){
             <h1>Course Section: CPRG 306 E</h1>
             <Link href = "https://github.com/rey-albano">Click for my GitHub Repo</Link>
             
+            
         </main>
     );
 }
