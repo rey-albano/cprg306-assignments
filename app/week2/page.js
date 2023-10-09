@@ -6,7 +6,7 @@ export default function Week2(){
         <main>
             <h1>My Shopping List</h1>
             <StudentInfo />
-            <p>...</p>
+            <br />
             <Link href = "../">&lt;- Back to Main Page</Link>
         </main>
     );
