@@ -3,7 +3,6 @@
 "use client";
 
 import { useState } from "react";
-import Item from "../week3/item";
 
 export default function NewItem () {
     const [name, setName] = useState("");
